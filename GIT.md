@@ -349,4 +349,4 @@ hub pull-request
 
 ===========
 ### Current branch:
-```set CURRENT_BRANCH (git branch 2> /dev/null | sed -e '/^[^*]/d' -e 's/* \(.*\)/ \1/' | tr -d [:space:])``Sea
+```set CURRENT_BRANCH (git branch 2> /dev/null | sed -e '/^[^*]/d' -e 's/* \(.*\)/ \1/' | tr -d [:space:])```
